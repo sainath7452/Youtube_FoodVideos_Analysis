@@ -9,6 +9,7 @@ Some cuisines receive higher engagement rates, meaning audiences interact more t
 Engagement levels vary across different cuisines, which could indicate differences in audience interest or video presentation styles.
 
 2️⃣ Visualizing Popular Cuisines 🌍
+
 Description:
 A breakdown of the most popular cuisines based on total views and engagement.
 
@@ -19,6 +20,7 @@ The engagement per cuisine is not always proportional to the number of videos, m
 The data suggests that some cuisines have a dedicated and engaged audience, leading to a strong performance.
 
 3️⃣ Engagement Rate Analysis 💬
+
 Description:
 Analyzes the percentage of likes, comments, and shares relative to views to determine which types of content drive more interaction.
 
@@ -29,6 +31,7 @@ High engagement rates may indicate a loyal audience base or strong community dis
 Understanding engagement trends can help optimize video content strategy for better audience retention.
 
 4️⃣ Upload Trends 📅
+
 Description:
 Examines the frequency of video uploads and their correlation with engagement.
 
@@ -38,6 +41,7 @@ There are noticeable upload patterns, with peaks in certain time periods.
 The number of uploads does not always correlate with engagement, suggesting that quality and timing play a significant role.
 
 5️⃣ Total Views for Each Cuisine 👀
+
 Description:
 Provides an overview of total views received for each cuisine.
 
