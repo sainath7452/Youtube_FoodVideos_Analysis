@@ -1,4 +1,4 @@
-# Youtube_FoodVideos_Analysis
+# Youtube_FoodVideo_Analysis
 
 📌 Project Overview
 
