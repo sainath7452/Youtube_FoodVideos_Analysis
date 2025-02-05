@@ -1,6 +1,7 @@
 # YouTube Food Video Analysis - Documentation 🍽️🎥
 1️⃣ Cuisine-wise Engagement 📊
-Description:
+
+# Description:
 This analysis evaluates engagement across different cuisines based on metrics such as views, likes, and comments.
 
 Findings:
@@ -10,7 +11,7 @@ Engagement levels vary across different cuisines, which could indicate differenc
 
 2️⃣ Visualizing Popular Cuisines 🌍
 
-Description:
+# Description:
 A breakdown of the most popular cuisines based on total views and engagement.
 
 Findings:
@@ -21,7 +22,7 @@ The data suggests that some cuisines have a dedicated and engaged audience, lead
 
 3️⃣ Engagement Rate Analysis 💬
 
-Description:
+# Description:
 Analyzes the percentage of likes, comments, and shares relative to views to determine which types of content drive more interaction.
 
 Findings:
@@ -32,7 +33,7 @@ Understanding engagement trends can help optimize video content strategy for bet
 
 4️⃣ Upload Trends 📅
 
-Description:
+# Description:
 Examines the frequency of video uploads and their correlation with engagement.
 
 Findings:
@@ -42,7 +43,7 @@ The number of uploads does not always correlate with engagement, suggesting that
 
 5️⃣ Total Views for Each Cuisine 👀
 
-Description:
+# Description:
 Provides an overview of total views received for each cuisine.
 
 Findings:
