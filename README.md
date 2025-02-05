@@ -66,10 +66,9 @@ Engagement rate is higher for channels that consistently post weekly content.
 
 
 📂 Youtube-Food-Video-Analysis
- ├── 📜 Youtube_Food_Video_Analysis.ipynb  # Jupyter Notebook with analysis
  ├── 📜 README.md                           # Project documentation
- ├── 📜 requirements.txt                     # Dependencies list
- ├── 📜 data/                                # Folder for datasets (if applicable)
+ ├── 📜 Youtube_Food_Video_Analysis.ipynb   # Jupyter Notebook with analysis
+ ├── 📜 Findings.md                         # Findings from the visuals
 
 🛠️ Contributing
 
